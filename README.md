@@ -1,0 +1,2 @@
+rust中外部crate的简单用法，通过在Cargo.toml中加入依赖，然后idea会自动下载到CARGO_HOME的相关目录
+
